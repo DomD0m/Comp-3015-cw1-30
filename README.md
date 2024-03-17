@@ -5,7 +5,7 @@
  https://youtu.be/7DlY0UmQcQ0
 
  How to run:
- Build file open and be able to find project solution.exe and run it as all files are within that file, that should allow for the .exe to run.
+ complete build open and then open x64 and debug be able to find project solution.exe and run it as all files are within that file, that should allow for the .exe to run.
 
  This project was made within Visual Studios 2022, and was running on a Windows 11 Machines.
 
